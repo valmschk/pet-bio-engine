@@ -1,0 +1,10 @@
+# Игнорируем папки сборки и IDE
+build/
+.gradle/
+.idea/
+*.iml
+.vscode/
+
+# Игнорируем локальные файлы с данными 
+request.json
+.env
